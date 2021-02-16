@@ -10,7 +10,7 @@ chardet==3.0.4
 Click==7.0
 #cloud-init==20.4
 colorama==0.4.3
-command-not-found
+#command-not-found
 configobj==5.0.6
 constantly==15.1.0
 cryptography==2.8
