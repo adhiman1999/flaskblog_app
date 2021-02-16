@@ -80,7 +80,7 @@ sendgrid==6.6.0
 service-identity==18.1.0
 simplejson==3.16.0
 six==1.14.0
-sos==4.0
+sos==0.22.5
 SQLAlchemy==1.3.23
 ssh-import-id==5.10
 starkbank-ecdsa==1.1.0
